@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @ARPIT22102003
+- 👀 I’m interested in learning new stuffs and creating on my own.
+- 🌱 I’m currently learning web devlopment and data science.
+- 📫 Mail me at arpitsinghal00001@gmail.com
